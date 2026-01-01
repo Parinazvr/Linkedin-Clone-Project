@@ -40,10 +40,10 @@ This project focuses on recreating the core layout and visual structure of Linke
 
 Linkedin-Clone-Project/
 │
-├── index.html # Home feed page
-├── profile.html # Profile page
-├── style.css # Main stylesheet
-├── images/ # Images and icons
+├── index.html        # Home feed page
+├── profile.html      # Profile page
+├── style.css         # Main stylesheet
+├── images/           # Images and icons
 └── README.md
 
 ---
